@@ -81,7 +81,7 @@
 
 <property name="servername" value="dot.cs.ucsb.edu" />
 <property name="projdir" value="~/Downloads/cs290bHw4-master/cs290bHw4" />
-<property name="host1" value="tom"/>
+<property name="host1" value="tom.cs.ucsb.edu"/>
 <property name="host2" value="snoopy.cs.ucsb.edu"/>
 <property name="host3" value="dizzy.cs.ucsb.edu"/>
 <property name="host4" value="linus.cs.ucsb.edu"/>
