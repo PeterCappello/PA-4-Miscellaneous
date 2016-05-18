@@ -27,6 +27,7 @@ import java.util.Random;
 
 /**
  * Make random graph of numCities cities in unit square using seed.
+ * Example use: double[][] cities = Graph.makeGraph( 12, 5 );
  * @author Peter Cappello
  */
 public class Graph 
